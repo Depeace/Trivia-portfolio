@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    
+}
+.container {
+    text-align: center;
+    background-color: #eeff99;
+    padding: 40;
+    margin-top: 30px;
+}
+.wrapper{
+    padding: 40px;
+}
+h1 {
+    background-color: rgb(127, 230, 127);
+    padding-block-end: 10px;
+    color: green;
+    
+}
